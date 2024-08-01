@@ -7,7 +7,6 @@ $ git add<simplegradecalculator>
 $ git add<simplegradecalculator><screenshot>
 $ git add
 $ git add --all
-$ git add -A
 $ git rm --cached<simplegradecalculator>
 $ git reset<simplegradecalculator>
 $ git commit -m"add three files"
